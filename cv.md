@@ -17,7 +17,9 @@ Now I've joined the JavaScript FrontEnd course in the Rolling Scope School. I wo
 * Figma
 ## Code Example
 ```
+
 <?php
+
 for ($i = 1; i <= 10; $i++) {
   echo $i;
  }
@@ -27,7 +29,9 @@ if (1 > 2) {
   } else {
   echo "true";
   }
+  
   ?>
+  
 ```
 ## Education
 * **University:** Brest State Technical University, Software engineer
