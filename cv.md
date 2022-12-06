@@ -16,10 +16,9 @@ Now I've joined the JavaScript FrontEnd course in the Rolling Scope School. I wo
 * PHP
 * Figma
 ## Code Example
-```
+```php
 
 <?php
-
 for ($i = 1; i <= 10; $i++) {
   echo $i;
  }
